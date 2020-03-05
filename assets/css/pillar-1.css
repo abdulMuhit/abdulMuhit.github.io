@@ -6080,7 +6080,7 @@ button.bg-dark:focus {
   }
 }
 
-@media print {
+/* @media print {
   .d-print-none {
     display: none !important;
   }
@@ -6108,7 +6108,7 @@ button.bg-dark:focus {
   .d-print-inline-flex {
     display: inline-flex !important;
   }
-}
+} */
 
 .embed-responsive {
   position: relative;
@@ -8415,7 +8415,7 @@ a.text-dark:hover, a.text-dark:focus {
   visibility: hidden !important;
 }
 
-@media print {
+/* @media print {
   *,
   *::before,
   *::after {
@@ -8493,7 +8493,7 @@ a.text-dark:hover, a.text-dark:focus {
     border-color: #dee2e6;
   }
 }
-
+ */
 /*************************** Pillar Styles ****************************/
 body {
   font-family: 'Roboto', sans-serif;
