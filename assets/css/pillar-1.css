@@ -449,6 +449,16 @@ mark,
   list-style: none;
 }
 
+.list-inline-custom > li {
+  padding: 0;
+  list-style: none;
+  display: inline;
+}
+
+.list-inline-custom {
+  padding: 0;
+}
+
 .list-inline-item {
   display: inline-block;
 }
@@ -8547,7 +8557,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-header .picture {
-  width: 220px;
+  width: 160px;
 }
 
 .resume-header .name {
